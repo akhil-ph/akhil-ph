@@ -1,4 +1,4 @@
-<img align="right" src="img/design.svg" alt="background" width=250px height=365px/>
+<img align="right" src="img/design.svg" alt="background" width=350px height=465px/>
 
 ## Hi, I'm Akhil 🙌
 
