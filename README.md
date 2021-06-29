@@ -7,11 +7,14 @@ I’m a **Certified Linux Sysadmin** and **DevOps Enthusiast**. I'm skilled in D
 #### Under My Belt 💪
 
 - 🔺 Jenkins
+- 🔺 Kubernetes
 - 🔺 Git and Gitlab CI
 - 🔺 Ansible
 - 🔺 Prometheus and Grafana
 - 🔺 Docker
 - 🔺 Packer
+- 🔺 Terraform
+- 🔺 Azure Devops
 - 🔺 Vagrant
 - 🔺 GCP, AWS and DigitalOcean
 
