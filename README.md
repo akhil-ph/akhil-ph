@@ -8,6 +8,7 @@ I’m a **Certified Linux Sysadmin** and **DevOps Enthusiast**. I'm skilled in D
 
 - 🔺 Jenkins
 - 🔺 Kubernetes
+- 🔺 ArgoCD
 - 🔺 Git and Gitlab CI
 - 🔺 Ansible
 - 🔺 Prometheus and Grafana
